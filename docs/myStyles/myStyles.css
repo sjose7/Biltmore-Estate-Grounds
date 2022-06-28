@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+/* IMAGES
+===================================
+*/
+
+.history-article-img {
+  background-image: url('../myImages/1862.jpg');
+}
+.history-title-img {
+	background-image: url('../myImages/biltmore_housandgardens-2.jpg')
+}
+.house-article-img {
+	background-image: url('../myImages/biltmore_housandgardens_biltmorehouse_1.jpg')
+}
+.house-title-img {
+	background-image: url('../myImages/westview_aerial.jpg')
+}
+.grounds-article-img {
+	background-image: url('../myImages/visit_biltmorehouseandgardens_gardensandgrounds-1.jpg')
+}
+.grounds-title-img {
+	background-image: url('../myImages/biltmore_housandgardens-3.jpg')
+}
+
+.mycolor-darkgreen{background-color:  #596c46;}
+.mycolor-bright{background-color:  #f0ebd7;}
+.mycolor-bg{background-color:  #fefdf9;}
+.mycolor-dark{background-color:  #af9457;}
+
+.mycolor-txt-darkgreen{color:  #596c46;}
+.mycolor-txt-bright{color:  #f0ebd7;}
+.mycolor-txt-dark{color:  #af9457;}
